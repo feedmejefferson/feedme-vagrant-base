@@ -1,0 +1,15 @@
+{
+  "name": "feedme-base",
+  "description": "This box contains Centos 6.7 with java 8 jre and apache server.",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "package.box"
+        }
+      ]
+    }
+  ]
+}
